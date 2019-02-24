@@ -1,0 +1,1817 @@
+﻿
+
+DIETER GERDESMEIER
+
+EURO AREA ECONOMICS –
+EXERCISES
+
+Download free eBooks at bookboon.com
+2
+
+Euro Area Economics – Exercises
+1st edition
+© 2017 Dieter Gerdesmeier & bookboon.com
+ISBN 978-87-403-1711-4
+
+Download free eBooks at bookboon.com
+3
+
+EURO AREA ECONOMICS – EXERCISES
+
+Contents
+
+CONTENTS
+1	Introduction	
+
+6
+
+2	
+
+Understanding Economics	
+
+7
+
+3	
+
+A Look into the Toolbox 	
+
+8
+
+4	National Income Accounting	
+
+10
+
+5	
+
+The Market for Goods	
+
+12
+
+6	
+
+The Money Market	
+
+14
+
+7	
+
+The IS-LM-Model	
+
+16
+
+8	
+
+The Labour Market	
+
+17
+
+9	Aggregate Supply and Demand	
+
+19
+
+10	The European Union and the Euro Area	
+
+20
+
+I joined MITAS because
+I wanted real responsibili�
+I joined MITAS because
+I wanted real responsibili�
+
+Real work
+International
+Internationa
+al opportunities
+�ree wo
+work
+or placements
+
+Maersk.com/Mitas
+www.discovermitas.com
+
+�e G
+for Engine
+
+Ma
+
+Month 16
+I was a construction
+Mo
+supervisor
+ina const
+I was
+the North Sea super
+advising and the No
+he
+helping
+foremen advis
+ssolve
+problems
+Real work
+he
+helping
+fo
+International
+Internationa
+al opportunities
+�ree wo
+work
+or placements
+ssolve pr
+
+Download free eBooks at bookboon.com
+4
+
+�e Graduate Programme
+for Engineers and Geoscientists
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+11	
+
+Contents
+
+Business Cycle Fluctuations	
+
+24
+
+12	Unemployment	
+
+26
+
+13	
+
+Prices and Inflation	
+
+27
+
+14	
+
+Exchange Rates	
+
+30
+
+15	
+
+Monetary Theory	
+
+31
+
+16	
+
+Monetary Policy	
+
+33
+
+17	
+
+Fiscal Policy	
+
+36
+
+18	Conventional and Unconventional Monetary Policy	
+
+37
+
+19	
+
+Open Economy Issues	
+
+39
+
+20	
+
+Growth Theory	
+
+41
+
+21	Solutions	
+
+42
+
+Download free eBooks at bookboon.com
+5
+
+EURO AREA ECONOMICS – EXERCISES
+
+Introduction
+
+1	INTRODUCTION
+This booklet is meant to accompany the basic textbook entitled “A Guided Tour through
+Euro Area Economics”. The reason for preparing such a booklet lies in the fact that I have
+been asked many times by my students to provide them with appropriate exercises in order
+to allow them to test their knowledge. In line with this, here is the first edition of such
+an exercise booklet. It goes without saying that the concrete outline follows the one of the
+underlying textbook very closely.
+
+Download free eBooks at bookboon.com
+6
+
+EURO AREA ECONOMICS – EXERCISES
+
+Understanding Economics
+
+2	 UNDERSTANDING ECONOMICS
+2.1)	 Opportunity costs are…?
+a key concept in macroeconomics
+always measured in monetary units
+only of relevance for econometrics
+always expressed in terms of forgone consumption of another good
+2.2)	
+Which of the following topics can be seen as forming part of macroeconomic
+analysis…?
+the
+the
+
+the
+
+the
+
+analysis
+analysis
+analysis
+analysis
+
+of
+of
+of
+of
+
+household’s behaviour
+business cycle fluctuations
+the monopolist’s price-setting behaviour
+unemployment
+
+2.3)	 By its very nature, an ex-ante analysis is…?
+retrospective
+forward-looking
+prospective
+backward-looking
+2.4)	 Classical economics is rooted in the work of…?
+David Ricardo
+Milton Friedman
+John Maynard Keynes
+Adam Smith
+2.5)	 Some key macroeconomic variables are…?
+the
+the
+the
+the
+
+rate of inflation
+rate of unemployment
+trade balance
+exchange rate
+
+Download free eBooks at bookboon.com
+7
+
+EURO AREA ECONOMICS – EXERCISES
+
+A Look into the Toolbox
+
+3	 A LOOK INTO THE TOOLBOX
+3.1)	 Which of the following equations are part of the mathematical analysis…?
+behavioural equations
+primary equations
+secondary equations
+identities
+3.2)	 According to the “law of supply”, the supply curve is…?
+horizontal
+vertical
+upward sloping
+downward sloping
+3.3)	Assuming an unchanged demand curve, an increase in the supply for a good leads
+to…?
+an increase in the price
+a decrease in the price
+an increase in the quantity
+a decrease in the quantity
+3.4)	According to the law of demand, the price and the demand for a good are related
+as follows…?
+positively
+negatively
+not at all
+all of the above
+3.5)	Assuming an unchanged supply curve, an increase in the demand for a good leads to…?
+an increase in the price
+a decrease in the price
+an increase in the quantity
+a decrease in the quantity
+
+Download free eBooks at bookboon.com
+8
+
+EURO AREA ECONOMICS – EXERCISES
+
+A Look into the Toolbox
+
+3.6)	 A change in the price causes…?
+A
+A
+A
+A
+
+rightward shift of the demand curve
+leftward shift of the demand curve
+change in the slope of the demand curve
+shift along the demand curve
+
+3.7)	Which of the following reasons would cause the demand for houses to shift to the
+left…?
+an
+an
+an
+an
+
+increase
+increase
+increase
+increase
+
+in
+in
+in
+in
+
+buyer’s income
+the cost of production for houses
+the price for houses
+the interest to be paid on loans
+
+3.8)	 Examples of complementary goods are…?
+tennis shoes and socks
+coffee and tea
+pencils and erasers
+butter and margarine
+3.9)	 If a market is in equilibrium, this means that…?
+prices are too high
+demand exceeds supply
+supply exceeds demand
+supply equals demand
+3.10)	 A high elasticity of demand is reflected in…?
+a
+a
+a
+a
+
+vertical demand curve
+horizontal demand curve
+steep demand curve
+flat demand curve
+
+Download free eBooks at bookboon.com
+9
+
+EURO AREA ECONOMICS – EXERCISES
+
+National Income Accounting
+
+4	NATIONAL INCOME
+ACCOUNTING
+4.1)	 The framework of national accounting embodies…?
+the
+the
+the
+the
+
+expenditure approach
+income approach
+stock-and-flow approach
+value added approach
+
+4.2)	 Nominal GDP is also called…?
+GDP in constant prices
+GDP in current prices
+Euro GDP
+GDP adjusted for inflation
+4.3)	 Under normal circumstances…?
+nominal
+nominal
+nominal
+nominal
+
+GDP
+GDP
+GDP
+GDP
+
+is equal to real GDP
+is higher than real GDP
+is lower than real GDP
+does not have anything to do with real GDP
+
+4.4)	In a closed economy with government (but without taxes), aggregate demand equals…?
+consumption
+consumption
+consumption
+consumption
+
+minus investment
+plus taxes plus savings
+plus investment plus government expenditure
+plus investment plus net exports
+
+Download free eBooks at bookboon.com
+10
+
+EURO AREA ECONOMICS – EXERCISES
+
+National Income Accounting
+
+4.5)	 Say’s Law states that
+demand creates supply
+supply creates demand
+supply and demand are independent
+supply and demand are interdependent
+4.6)	 The expression “twin deficits” refers to…?
+the
+the
+the
+the
+
+budget deficit and the social security deficit
+budget deficit and the household deficit
+trade deficit and the capital deficit
+budget deficit and the trade deficit
+
+www.job.oticon.dk
+
+Download free eBooks at bookboon.com
+11
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Market for Goods
+
+5	 THE MARKET FOR GOODS
+5.1)	 The marginal propensity to consume…?
+is
+is
+is
+is
+
+equal
+equal
+equal
+equal
+
+to
+to
+to
+to
+
+the
+the
+the
+the
+
+absolute term of the consumption function
+residual term of the consumption function
+slope of the consumption function
+slope of the investment function
+
+5.2)	Suppose, the consumption function is equal to C = 200 + 0.8 · Y. Consequently, the
+marginal propensity to consume is…?
+0.5
+0.4
+0.8
+1.0
+5.3)	In a closed economy without government, the marginal propensity to save is 0.25,
+so the marginal propensity to consume is…?
+0.50
+0.25
+0.75
+1.25
+5.4)	 The “permanent income hypothesis” has been advocated by…?
+James Duesenberry
+Milton Friedman
+John Maynard Keynes
+Alberto Ando
+Franco Modigliani
+5.5)	 The investment multiplier…?
+always takes a positive value
+equals the value of one
+is always larger than one
+is usually negative
+
+Download free eBooks at bookboon.com
+12
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Market for Goods
+
+5.6)	 The “Haavelmo theorem” holds that…?
+a
+a
+a
+a
+
+balanced
+balanced
+balanced
+balanced
+
+budget
+budget
+budget
+budget
+
+has zero effect
+has a negative effect
+has a positive effect
+increases prices
+
+5.7)	 Along the IS curve…?
+the market for investment is in equilibrium
+the market for goods is in equilibrium
+investment equals savings
+consumption equals taxes
+5.8)	 The IS curve steepens if…?
+the
+the
+the
+the
+
+slope
+slope
+slope
+slope
+
+of
+of
+of
+of
+
+the
+the
+the
+the
+
+investment function increases
+savings function decreases
+savings function increases
+investment function declines
+
+5.9)	In case, in an open economy exports exceed imports amd government expenditrue
+exceed taxes, then…?
+savings must exceed investment
+savings must equal investment
+savings must undershot investment
+none of the above
+5.10)	If supply exceeds demand in the goods market of a closed economy, it must follow
+that…?
+savings exceed investment
+income exceeds equilibrium income
+there is a lack of demand
+savings equal investment
+
+Download free eBooks at bookboon.com
+13
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Money Market
+
+6	 THE MONEY MARKET
+6.1)	 According to the literature, money performs the function(s) of…?
+a unit of account
+a medium of exchange
+a store of value
+an electronic source
+6.2)	 The ECB’s Governing Council…?
+currently comprises 25 members
+is chaired by the President of the ECB
+includes the ECB’s Executive Board members
+votes according to a pre-defined rotation scheme
+
+Linköping University
+
+– Innovative, well ranked, European
+Interested in Strategy and Management in
+International Organisations? Kick-start your
+career with an English-taught master’s degree.
+liu.se/master
+
+Click here!
+
+Download free eBooks at bookboon.com
+14
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Money Market
+
+6.3)	 Following J.M. Keynes, money demand consists of…?
+a transactions demand for money
+a precautionary demand for money
+a speculative demand for money
+an asset demand for money
+6.4)	 The LM curve…?
+always has a negative slope
+normally has a positive slope
+can have a horizontal segment
+can have a vertical segment
+6.5)	 Along the LM curve…?
+the money market is in equilibrium
+the market for goods is in equilibrium
+transactions demand equals precautionary demand
+speculative demand equals income
+6.6)	 The LM curve steepens if…?
+the
+the
+the
+the
+
+multiplier increases
+slope of the savings function increases
+interest rate elasticity of investment increases
+cash-holding coefficient increases
+
+6.7)	In the framework of the LM curve, disequilibria in the money market are most likely
+resolved by…?
+changes
+changes
+changes
+changes
+
+in
+in
+in
+in
+
+money supply
+consumption
+investment
+interest rates
+
+Download free eBooks at bookboon.com
+15
+
+EURO AREA ECONOMICS – EXERCISES
+
+The IS-LM-Model
+
+7	 THE IS-LM-MODEL
+7.1)	 The IS-LM model…?
+shows
+shows
+shows
+shows
+
+an equilibrium
+an equilibrium
+an equilibrium
+a simultaneous
+
+in the goods market
+in the money market
+in the labour market
+equilibrium in the money and the goods market
+
+7.2)	 A shift of the IS curve to the right in the classical segment…?
+leads
+leads
+leads
+leads
+
+to
+to
+to
+to
+
+an
+an
+an
+an
+
+increase
+increase
+increase
+increase
+
+in
+in
+in
+in
+
+prices
+income
+the interest rate
+real wages
+
+7.3)	In the framework of the IS-LM model, an expansionary monetary policy coupled
+with an interest-rate inelastic investment will lead to…?
+an increase n income
+a decrease in income
+an increase in the interest rate
+a decrease in the interest rate
+an increase in wages
+a decrease in wages
+an increase in investment
+a decrease in investment
+7.4)	 The expression “crowding out” implies that…?
+government expenditure “crowds out “private investment
+private investment “crowds out “ government projects
+the full multiplier effect works
+the full multiplier does not work
+the interest-rate sensitivity of investment implies a dampening effect
+the income elasticity of consumption implies a dampening effect
+
+Download free eBooks at bookboon.com
+16
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Labour Market
+
+8	 THE LABOUR MARKET
+8.1)	 Following the classical view,…?
+labour supply depends positively on real wages
+labour demand depends negatively on real wages
+disequilibria cannot persist in the long run
+the invisible hand works
+
+INNOVATIVE
+LIKE YOU.
+If you’re hoping for a truly modern education, one where you’re
+encouraged to speak your mind and to think long-term, both when
+it comes to your own future and the future of the planet. Then the
+University of Gothenburg is the place for you.
+
+Study a Master’s programme in Gothenburg, Sweden | www.gu.se/education
+
+Download free eBooks at bookboon.com
+17
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+The Labour Market
+
+8.2)	 If real wages are set at a too high level, then…?
+an excess supply of labour materialises
+an excess demand of labour materialises
+unvoluntary unemployment must exist
+voluntary unemployment must exist
+8.3)	 According to J.M. Keynes,…?
+labour supply depends on real wages
+real wages are subject to downward rigidities
+labour demand depends on the level of aggregate demand
+adjustments in real wages will automatically clear the market
+8.4)	 In the Keynesina labour market…?
+wages are only a cost argument
+wages are only an income argument
+wages are both, a cost and an income argument
+none of the above
+8.5)	 Taken together, unemployment can be due to…?
+wages being too high
+wages being too low
+income being too high
+interest rates being too low
+
+Download free eBooks at bookboon.com
+18
+
+EURO AREA ECONOMICS – EXERCISES
+
+Aggregate Supply and Demand
+
+9	AGGREGATE SUPPLY
+AND DEMAND
+9.1)	 The aggregate demand curve…?
+has a negative slope
+mirrors the impact of the IS and the LM curve
+mirrors the impact of the labour market
+makes use of the production function
+9.2)	 In the long run…?
+the
+the
+the
+the
+
+aggregate
+aggregate
+aggregate
+aggregate
+
+demand curve is vertical
+supply curve is vertical
+demand curve has a negative slope
+supply curve has a zero slope
+
+9.3)	 The AD curve shifts to the right if…?
+money supply increases
+consumption decreases
+investment increases
+the budget deficit decines
+the trade balance increases
+real wages increase
+9.4)	 Among the factors influencing the position of the AS curve are…?
+oil prices
+real wages
+the labour input
+the capital input
+the price level
+real income
+technology
+
+Download free eBooks at bookboon.com
+19
+
+EURO AREA ECONOMICS – EXERCISES
+
+The European Union and the Euro Area
+
+10	THE EUROPEAN UNION AND THE
+EURO AREA
+10.1)	 The name “Europe“ derives from…?
+one of the six continents
+a Greek princess
+a Phoenician princess
+a Greek island
+10.2)	 How many countries are currently members of the euro area?
+15
+19
+28
+50
+
+
+
+678'<)25<2850$67(5©6'(*5((
+&KDOPHUV8QLYHUVLW\RI7HFKQRORJ\FRQGXFWVUHVHDUFKDQGHGXFDWLRQLQHQJLQHHU
+LQJDQGQDWXUDOVFLHQFHVDUFKLWHFWXUHWHFKQRORJ\UHODWHGPDWKHPDWLFDOVFLHQFHV
+DQGQDXWLFDOVFLHQFHV%HKLQGDOOWKDW&KDOPHUVDFFRPSOLVKHVWKHDLPSHUVLVWV
+IRUFRQWULEXWLQJWRDVXVWDLQDEOHIXWXUH¤ERWKQDWLRQDOO\DQGJOREDOO\
+9LVLWXVRQ&KDOPHUVVHRU1H[W6WRS&KDOPHUVRQIDFHERRN
+
+Download free eBooks at bookboon.com
+20
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+The European Union and the Euro Area
+
+10.3)	 Which of the following countries form the „Baltic countries“?
+Latvia
+Estonia
+Russia
+Norway
+Lithuania
+10.4)	 How many persons are currently members of the Governing Council?
+15
+19
+25
+28
+10.5)	 Which of the following persons are currently members of the ECB’s Executive Board?
+Gertrude Tumpel-Gugerell
+Peter Praet
+Jürgen Stark
+Axel Weber
+Sirkka Hämäläinen
+10.6)	 Which of the following countries has a harp on one of its coins?
+Finland
+Greece
+Portugal
+Ireland
+
+Download free eBooks at bookboon.com
+21
+
+EURO AREA ECONOMICS – EXERCISES
+
+The European Union and the Euro Area
+
+10.7)	Which of the following EU countries have not introduced the euro as their currency yet?
+Germany
+Denmark
+Slowenia
+Romania
+Norway
+Bulgaria
+Hungary
+Croatia
+Canada
+France
+Luxembourg
+Greece
+Czech Republic
+10.8)	 What is the name of the current President of the ECB?
+Jean-Claude Juncker
+Jean-Claude Trichet
+Willem Duisenberg
+Mario Draghi
+10.9)	 Which country has joined the euro area in January 2015?
+Estonia
+Latvia
+Lithuania
+Croatia
+10.10)	The euro coins and banknotes have been introduced in…?
+1999
+2001
+2002
+2006
+
+Download free eBooks at bookboon.com
+22
+
+EURO AREA ECONOMICS – EXERCISES
+
+The European Union and the Euro Area
+
+10.11)	Before entering the euro area, a country has to fulfil the…?
+Independence criteria
+Convergence criteria
+Progress criteria
+Sustainability criteria
+
+Welcome to
+our world
+of teaching!
+Innovation, flat hierarchies
+and open-minded professors
+
+Study in Sweden close collaboration
+with future employers
+Mälardalen university collaborates with
+many employers such as ABB, volvo and
+Ericsson
+
+TAKE THE
+RIGHT TRACK
+
+debajyoti nag
+Sweden, and particularly
+MDH, has a very impressive reputation in the field
+of Embedded Systems Research, and the course
+design is very close to the
+industry requirements.
+
+give your career a headstart at mälardalen university
+
+He’ll tell you all about it and
+answer your questions at
+mdustudent.com
+
+www.mdh.se
+
+Download free eBooks at bookboon.com
+23
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Business Cycle Fluctuations
+
+11	 BUSINESS CYCLE FLUCTUATIONS
+11.1)	 Among the business cycles mentioned in the literature are…?
+the
+the
+the
+the
+
+Kitchin cycle
+Juglar cycle
+Kuznets cycle
+Kondratieff cycle
+
+11.2)	 Business cycle indicators are often categorised according to…?
+their
+their
+their
+their
+
+direction
+timing
+availability
+slope
+
+11.3)	 According to empirical evidence, real M1…?
+is a lagging indicator for activity
+is a leading indicator for activity
+behaves in a procyclical way
+behaves in a countercyclical way
+11.4)	The particular point of the business cycle, where real GDP reaches its lowest point
+is called…?
+expansion
+peak
+recession
+trough
+inflection point
+11.5)	 When the literature speaks about “the” business cycle, it generally refers to…?
+the
+the
+the
+the
+
+Kitchin cycle
+Juglar cycle
+Kuznets cycle
+Kondratieff cycle
+
+Download free eBooks at bookboon.com
+24
+
+EURO AREA ECONOMICS – EXERCISES
+
+Business Cycle Fluctuations
+
+11.6)	The well-known “Kondratieff cycle” or “Kondratieff wave” is generally seen as having
+a duration of…?
+3–5 years
+7–11 years
+15–25 years
+45–60 years
+11.7)	 Which of the following business cycle indicators behave in a countercyclical way…?
+broad money
+narrow money
+loans to the private sector
+capacity utilisation
+unemployment
+short-term interest rates
+inflation
+all of the above
+none of the above
+11.8)	 A positive output gap is equivalent to saying that…?
+the economy operates at full capacity
+the economy exceeds full capacity
+the economy operates below full capacity
+inflation is below target
+
+Download free eBooks at bookboon.com
+25
+
+EURO AREA ECONOMICS – EXERCISES
+
+Unemployment
+
+12	UNEMPLOYMENT
+12.1)	 The types of unemployment mentioned in the literature are…?
+cyclical unemployment
+frictional unemployment
+structural unemployment
+shadow unemployment
+12.2)	 Okun’s Law quantifies the relationship between…?
+the price level and money
+the price level and unemployment
+consumption and GDP
+unemployment anf forgone GDP
+12.3)	The particular type of unemployment that can be recorded if workers are in between
+jobs is called…?
+frictional unemployment
+cyclical unemployment
+structural unemployment
+unvoluntary unemployment
+12.4)	Suppose, a country has 1 million (registered) unemployed people, 9 million (registered)
+employed people and 1 million (registered) unemployed below 16. As a consequence,
+the country’s official unemployment rate equals…?
+5%
+10%
+15%
+18%
+
+Download free eBooks at bookboon.com
+26
+
+EURO AREA ECONOMICS – EXERCISES
+
+Prices and Inflation
+
+13	 PRICES AND INFLATION
+13.1)	 Inflation is generally defined as…?
+a
+a
+a
+a
+
+continued rise in the price index
+continued decline in the price index
+negative but increasing decline in the price index
+positive bur decreasing increase in the price index
+
+13.2)	 The main price indices in the economy are…?
+the
+the
+the
+the
+
+producer price index
+interest price index
+consumer price index
+GDP deflator
+
+Join the Vestas
+Graduate Programme
+Experience the Forces of Wind
+and kick-start your career
+As one of the world leaders in wind power solutions with wind turbine installations in over 65
+countries and more than 20,000 employees
+globally, Vestas looks to accelerate innovation
+through the development of our employees’ skills
+and talents. Our goal is to reduce CO2 emissions
+dramatically and ensure a sustainable world for
+future generations.
+Read more about the Vestas Graduate
+Programme on vestas.com/jobs.
+Application period will open March 1 2012.
+
+Download free eBooks at bookboon.com
+27
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Prices and Inflation
+
+13.3)	 The expression “core inflation” refers to…?
+the
+the
+the
+the
+
+part
+part
+part
+part
+
+of
+of
+of
+of
+
+inflation
+inflation
+inflation
+inflation
+
+caused
+caused
+caused
+caused
+
+by
+by
+by
+by
+
+fundamental factors
+energy prices
+food prices
+non-fundamental factors
+
+13.4)	The observation that headline inflation exceeds core inflation could (inter alia) be
+triggered by…?
+an
+an
+an
+an
+
+increase
+increase
+increase
+increase
+
+in
+in
+in
+in
+
+oil prices
+food prices
+the value-added tax
+real GDP growth
+
+13.5)	Suppose a representative basket consists of two goods, each of which are consumed
+in the quantity of 10 units. Good A has a price of 10 in the first period and 12
+in the second period. Good B has a price of 10 in the first period and 15 in the
+second period. It then follows that…?
+the total costs of the basket in the first period is equal to 100
+the total costs of the basket in the second period is equal 270
+the inflation rate is equal to 35%
+the inflation rate is equal to 70%
+all of the above
+none of the above
+13.6)	
+Which of the following problems qualify as a measurement problem in price
+statistics…?
+the underlying basket needs to be modified
+changes in quality have to be incorporated
+new products have to be integrated
+real GDP becomes available only with a one-quarter lag
+all of the above
+none of the above
+
+Download free eBooks at bookboon.com
+28
+
+EURO AREA ECONOMICS – EXERCISES
+
+Prices and Inflation
+
+13.7)	 The expression “hyperinflation” generally refers to…?
+an increase in annual inflation by more than 2 percent
+an increase in annual inflation by more than 10%
+an increase in annual inflation between 50 and 100%
+an increase in monthly inflation by more than 50%
+all of the above
+none of the above
+
+Scholarships
+
+Open your mind to
+new opportunities
+
+With 31,000 students, Linnaeus University is
+one of the larger universities in Sweden. We
+are a modern university, known for our strong
+international profile. Every year more than
+1,600 international students from all over the
+world choose to enjoy the friendly atmosphere
+and active student life at Linnaeus University.
+Welcome to join us!
+
+Bachelor programmes in
+Business & Economics | Computer Science/IT |
+Design | Mathematics
+Master programmes in
+Business & Economics | Behavioural Sciences | Computer
+Science/IT | Cultural Studies & Social Sciences | Design |
+Mathematics | Natural Sciences | Technology & Engineering
+Summer Academy courses
+
+Download free eBooks at bookboon.com
+29
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Exchange Rates
+
+14	 EXCHANGE RATES
+14.1)	Among the approaches explaining exchange rate developments over longer horizons
+are…?
+the
+the
+the
+the
+
+covered interest rate parity
+absolute purchasing power parity
+uncovered interest rate parity
+purchasing power parity for tradable goods
+
+14.2)	The relationship linking the interest rate differential to the forward exchange rate
+and the spot exchange rate is called…?
+the
+the
+the
+the
+
+purchasing power parity
+covered interest rate parity
+uncovered interest rate parity
+Balassa-Samuelson effect
+
+14.3)	 When the literature speaks about “dollarisation”, this means that…?
+the exchange rate vis-à-vis the dollar is fixed
+exchange rate interventions keep the dollar stable
+a foreign currency is used in parallel to the home currency
+a foreign currency is used on its own
+14.4)	Humorous but nevertheless valuable illustrations of the purchasing power parity
+involve…?
+the house price index
+the haircut index
+the Big Mac Index
+the Tall-Latte-Index
+the iPod index
+all of the above
+none of the above
+
+Download free eBooks at bookboon.com
+30
+
+EURO AREA ECONOMICS – EXERCISES
+
+Monetary Theory
+
+15	 MONETARY THEORY
+15.1)	 In its traditional version, the quantity theory of money states that…?
+at least in the short rum, velocity is deternined by payment habits
+the growth rate of real income can be regarded as fixed
+the change in money will be reflected in a change in prices
+the change in money will be reflected in a rise in real income
+all of the above
+none of the above
+15.2)	 The theory of the Philips Curve states that…?
+in the short-run, a trade-off between unemployment and inflation exists
+in the short run, a “menu of choice” exists
+in the long run, the Pihilips Curve is vertical
+in the long run, no trade-off exists
+in the long run, money illusion seems to exist
+all of the above
+15.3)	 The P-Star Model includes…?
+an output gap
+a budgetary gap
+a velocity gap
+a price gap
+
+Download free eBooks at bookboon.com
+31
+
+EURO AREA ECONOMICS – EXERCISES
+
+Monetary Theory
+
+15.4)	 The Scandinavian Model of Inflation includes…?
+tradable and non-tradable goods
+differences in the increases in nominal wages and
+productivity
+imported inflation
+structural inflation
+a “spillover effect”
+all of the above
+15.5)	 Among the more backward-looking types of expectation formation are…?
+adaptive expectations
+rational expectations
+behavioural expectations
+static expectations
+
+Download free eBooks at bookboon.com
+32
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Monetary Policy
+
+16	 MONETARY POLICY
+16.1)	 According to the literature, the functions of money include…?
+the
+the
+the
+the
+
+function
+function
+function
+function
+
+as
+as
+as
+as
+
+a medium of exchange
+store of value
+a unit of account
+an instrument of barter
+
+16.2)	 Among the historical forms of money are…?
+commodity money
+metallic money
+paper money
+hybrid money
+electronic money
+16.3)	 Conventional views of the transmission mechanism include…?
+an asset price channel
+an interest rate channel
+an exchange rate channel
+a credit channel
+16.4)	 The economic literature often distinguishes…?
+a recognition-lag
+a decision-lag
+a briefing-lag
+an effectiveness-lag
+16.5)	 An intermediate target needs…?
+to
+to
+to
+to
+
+have a close relationship with the ultimate objective
+give an impression about strength and direction of monetary effects
+be controllable by monetary policy
+be easily observable at an early stage of the transmission process
+
+Download free eBooks at bookboon.com
+33
+
+EURO AREA ECONOMICS – EXERCISES
+
+Monetary Policy
+
+16.6)	 The term “adverse selection” describes…?
+the temptation to take more risk since others will bear the costs
+the attitude of being “too big to fail”
+a bad outcome, which is due to asymmetric information
+the tendency of buying “cherries” rather than “lemons”
+all of the above
+none of the above
+16.7)	 Monetarist economists would tend to claim that…?
+the private sector is inherently stable
+money matters
+following a rule-like behaviour is preferable
+an activist monetary policy can be ill-timed
+the self-correcting forces in an economy are weak
+all of the above
+none of the above
+16.8)	 Traditional monetary policy strategies include…?
+exchange rate targeting
+output gap targeting
+monetary targeting
+inflation targeting
+ all of the above
+none of the above
+16.9)	 The broadest monetary aggregate in the euro area is called…?
+central bank money stock
+M1
+M2
+M3
+all of the above
+none of the above
+
+Download free eBooks at bookboon.com
+34
+
+EURO AREA ECONOMICS – EXERCISES
+
+Monetary Policy
+
+16.10)	The so-called “Goodhart’s Law” states that…?
+the IS-Curve is unstable when interest rates are targeted
+a stable money demand function becomes unstable when targeted
+the AD-Curve becomes unstable when oil price shocks materialise
+an unstable money demand function become stable when targeted
+all of the above
+none of the above
+
+In the past four years we have drilled
+
+89,000 km
+That’s more than twice around the world.
+
+Who are we?
+
+We are the world’s largest oilfield services company1.
+Working globally—often in remote and challenging locations—
+we invent, design, engineer, and apply technology to help our
+customers find and produce oil and gas safely.
+
+Who are we looking for?
+
+Every year, we need thousands of graduates to begin
+dynamic careers in the following domains:
+n Engineering, Research and Operations
+n Geoscience and Petrotechnical
+n Commercial and Business
+
+What will you be?
+
+careers.slb.com
+Based on Fortune 500 ranking 2011. Copyright © 2015 Schlumberger. All rights reserved.
+
+1
+
+Download free eBooks at bookboon.com
+35
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Fiscal Policy
+
+17	 FISCAL POLICY
+17.1)	 Which of the following variables qualifies as an automatic stabilizer…?
+imports
+government expenditure
+lump-sum taxes
+income taxes
+17.2)	If the economy operates in a deficit situation at potential level of GDP, this is
+called…?
+a cyclical deficit
+an equilibrium deficit
+a potential deficit
+a structural deficit
+17.3)	 The Laffer curve describes the relationship between…?
+tax
+tax
+tax
+tax
+
+rates
+rates
+rates
+rates
+
+and
+and
+and
+and
+
+real GDP
+the budget deficit
+government revenue
+the debt service burden
+
+17.4)	 The key messages of the Laffer curve are that…?
+a relationship between the rate of taxation and the resulting level of
+government revenue exists
+if the tax rate increases, government revenue always increases
+an optimal tax rate exists
+the optimal tax rate maximises government revenue
+17.5)	 If Ricardian Equivalence holds, then higher budget deficits…?
+lead to lower interest rates
+lead to a crowding out of private investment
+lead to higher savings by households
+have no net effect on interest rates
+
+Download free eBooks at bookboon.com
+36
+
+
+
+CONVENTIONAL AND UNCONVENTIONAL
+MONETARY POLICY
+
+EURO AREA ECONOMICS – EXERCISES
+
+18	CONVENTIONAL AND
+UNCONVENTIONAL
+MONETARY POLICY
+18.1)	In the context of a stylised central bank balance sheet, the central bank money stock
+increases if (ceteris paribus)…?
+claims vis-à-vis the foreign sector increase
+claims vis-à-vis the government increase
+claims vis-à-vis the domestic banking sector increase
+currency in circulation increases
+18.2)	 The money multiplier includes the following variables…?
+the
+the
+the
+the
+the
+
+currency deposit ratio
+reserve ratio
+output gap
+price gap
+velocity gap
+
+18.3)	 The original Taylor rule links the short-term interest rate to…?
+the
+the
+the
+the
+
+monetary base
+output gap
+inflation gap
+real equilibrium interest rate
+
+Download free eBooks at bookboon.com
+37
+
+
+
+CONVENTIONAL AND UNCONVENTIONAL
+MONETARY POLICY
+
+EURO AREA ECONOMICS – EXERCISES
+
+18.4)	In the framework of the standard Taylor rule, the so-called “Taylor principle” states
+that…?
+the
+the
+the
+the
+
+output gap coefficient should be positive
+inflation gap coefficient should be positive
+inflation gap coefficient should be larger than one
+interest rate smoothing term should be positive
+
+18.5)	 The ECB’s extended APP is supposed to work via…?
+exchange rate effects
+signalling effects
+inflation expectations effects
+portfolio effects
+
+Develop the tools we need for Life Science
+Masters Degree in Bioinformatics
+
+Bioinformatics is the
+exciting ﬁeld where biology,
+computer science, and
+mathematics meet.
+We solve problems from
+biology and medicine using
+methods and tools from
+computer science and
+mathematics.
+
+Read more about this and our other international masters degree programmes at www.uu.se/master
+
+Download free eBooks at bookboon.com
+38
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Open Economy Issues
+
+19	 OPEN ECONOMY ISSUES
+19.1)	 The balance of payments…?
+represents a statistical framework
+measures the currency and commodity flows
+relies on the key concept of residence
+contains a current account and a capital account
+19.2)	 The so-called “capital account” records…?
+the amount of capital and labour input in an economy
+the total amount of financial investment in an economy
+all capital transactions of an economy with the rest of the world
+the amount of capital available for stock market invesment
+19.3)	 The Bank for International Settlements (BIS)…
+is an intergovernmental organisation
+makes long-term loans to countries
+takes care of balance of payment problems
+constitutes a centre for international central bank cooperation
+19.4)	 Approaches to explain the behaviour of the balance of payments include the…
+the
+the
+the
+the
+the
+
+elasticity approach
+multiplier approach
+absorption approach
+liquidity trap approach
+monetary approach
+
+Download free eBooks at bookboon.com
+39
+
+EURO AREA ECONOMICS – EXERCISES
+
+Open Economy Issues
+
+19.5)	 In the so-called “gold exchange standard”,…
+all currencies are defined in terms of gold
+all currencies are pegged to the US dollar
+all currencies are allowed to “float”
+the US dollar is declared convertible into gold
+all currencies take part in the ERM
+19.6)	In the balance of payments framework, an increase in domestic GDP leads (in first
+instance) to…
+capital inflows
+higher exports
+higher imports
+a positive interest rate differential
+
+Download free eBooks at bookboon.com
+40
+
+Click on the ad to read more
+
+EURO AREA ECONOMICS – EXERCISES
+
+Growth Theory
+
+20	 GROWTH THEORY
+20.1)	From a general perspective, the expression “growth of an economy” refers to the
+explanation of…?
+the
+the
+the
+the
+
+high-frequency component of real GDP
+business cycle of real GDP
+time trend of real GDP
+business cycle and the trend of real GDP
+
+20.2)	It can be shown that growth in real GDP per person includes the following factors…?
+growth
+growth
+growth
+growth
+
+in
+of
+of
+in
+
+the autonomous factor
+capital per person
+the tax rate
+the money supply
+
+20.3)	 The change in the growth rate of A is called the…?
+cash-holding coefficient
+Solow residual
+measure of our ignorance
+growth in the autonomous factor
+total factor productivity
+growth velocity
+autonomous consumption
+20.4)	 The growth in capital per person can be linked to…?
+the
+the
+the
+the
+
+(real) output to capital ratio
+depreciation rate
+growth rate of the population
+savings rate
+
+Download free eBooks at bookboon.com
+41
+
+EURO AREA ECONOMICS – EXERCISES
+EURO AREA ECONOMICS – EXERCISES
+
+Solutions
+soLutIons
+
+21	SOLUTIONS
+21 SOLUTIONS
+Chapter 2:
+Chapter 3:
+Chapter 4:
+Chapter 5:
+Chapter 6:
+Chapter
+Chapter
+Chapter
+Chapter
+
+7:
+8:
+9:
+10:
+
+Chapter 11:
+Chapter 12:
+Chapter 13:
+Chapter 14:
+Chapter 15:
+Chapter 16:
+
+Chapter 17:
+Chapter 18:
+Chapter 19:
+Chapter 20:
+
+2.1a, d; 2.2b, d; 2.3 b, c; 2.4a, d; 2.5a, b, c, d.
+3.1a, d; 3.2c; 3.3b, c; 3.4b; 3.5a, c; 3.6d, 3.7d,
+3.8a,c; 3.9d; 3.10d.
+4.1a, b, d; 4.2b, c; 4.3b; 4.4c, 4.5b; 4.6d.
+5.1c; 5.2c; 5.3c; 5.4b; 5.5a,c; 5.6c; 5.7b, c;
+5.8c, d; 5.9a; 5.10a, b, c.
+6.1a, b, c; 6.2a, b, c, d; 6.3a, b, c, d; 6.4b, c, d;
+6.5a; 6.6d; 6.7d.
+7.1d; 7.2c; 7.3d; 7.4a, d, e.
+8.1a, b, c, d; 8.2a, c; 8.3a, b, c; 8.4c; 8.5a, b.
+9.1a, b; 9.2b, c; 9.3a, c, e;9.4a, b, c, d, g.
+10.1c; 10.2b; 10.3a, b, e; 10.4c; 10.5b; 10.6d;
+10.7b, d, f, g, h, m, 10.8d; 10.9c; 10.10c; 10.11b.
+11.1a, b, c, d; 11.2a, b, c; 11.3b, c; 11.4d; 11.5b;
+11.6d; 11.7e; 11.8b.
+12.1a, b, c; 12.2d; 12.3a; 12.4b.
+13.1a; 13.2a, c, d; 13.3a; 13.4a, b, c; 13.5b, c;
+13.6a, b, c; 13.7d.
+14.1b,d; 14.2b; 14.3c, d; 14.4c, d, e.
+15.1a, b, c; 15.2a, b, c, d; 15.3a, c, d;
+15.4a, b, c, d, e, f; 15.5a, d.
+16.1a, b, c; 16.2a, b, c, e; 16.3a,b,c,d; 16.4a,b,d;
+16.5a, c, d;
+16.6c; 16.7a, b, c, d; 16.8a, c, d; 16.9d, 16.10b.
+17.1d; 17.2d; 17.3c; 17.4a, c, d; 17.5c, d.
+18.1a, b, c, d; 18.2a, b;18.3b, c, d; 18.4c;
+18.5a, b, c, d.
+19.1a, b, c, d; 19.2c; 19.3a,d; 19.4a, c, e;
+19.5b, d; 19.6c.
+20.1c; 20.2a, b; 20.3b, c, d, e; 20.4a, b, c, d.
+
+Download free eBooks at bookboon.com
+42
+42
+
+
